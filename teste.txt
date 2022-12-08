@@ -3,3 +3,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce purus mi, maximus
 Aenean nisi massa, ornare quis turpis a, bibendum malesuada nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum laoreet lacinia nulla ut ornare. Sed vitae sapien posuere, tempor diam in, molestie nunc. Morbi imperdiet sed quam non gravida. Ut sodales sapien sollicitudin fermentum placerat. Integer blandit gravida nisl eget pharetra. Phasellus felis odio, pretium sit amet tellus sit amet, scelerisque molestie tortor. Duis tempor, diam et aliquam rutrum, lacus odio volutpat justo, ut pulvinar dolor lorem non nisi. Integer ullamcorper ligula nec velit tempus, in egestas nulla tristique. Phasellus mattis lacus quis erat dictum, nec mollis nunc hendrerit. Fusce aliquet augue sagittis mauris tincidunt feugiat.
 
 // linha contraversora pra causar conflito
+// errei o checkout e a alteração saiu na remota em vez de na dev
